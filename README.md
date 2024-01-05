@@ -8,7 +8,7 @@
 
 ## Usage
 
-Install TamperMonkey, and then install [icloudcleanup.js](icloudcleanup.js) as a user script.
+[Install TamperMonkey](https://www.tampermonkey.net/), and then install [icloudcleanup.js](icloudcleanup.js) as a user script.
 
 ## Credits
 
