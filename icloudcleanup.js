@@ -14,7 +14,7 @@
 
 (function() {
     function boxTops(){
-        const thresh = 20 // Min seconds to highlight a video
+        const thresh = 30 // Min seconds to highlight a video
         HTMLCollection.prototype.toArray = function() { return Array.from(this); }
 
         // Select all the time badges and parse out their total runtime in seconds
